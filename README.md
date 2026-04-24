@@ -1,4 +1,4 @@
-# Amsterdam Influenza ABM
+# CANAL (Compartmental Amsterdam Neighborhood Agent-based modeL)
 
 Agent-based model of influenza transmission in Amsterdam. Simulates disease spread through a synthetic population across four settings: households, schools, workplaces, and community.
 
